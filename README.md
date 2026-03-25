@@ -13,10 +13,9 @@ Here are some ideas to get you started:
 
 ## 👨‍💻 About Me
 
-- 🎓 Information Systems Student (Semester 4)  
+- 🎓 Information Systems Student (Semester 6)  
 - 💻 Focus on Web Development & Machine Learning  
-- 📦 Currently building Inventory & Sales System  
-- 🐢 Prefer learning step-by-step (no rushing)  
+- 🐢 Prefer learning step-by-step  
 
 ---
 
@@ -38,7 +37,7 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KentangJpg&show_icons=true&theme=tokyonight" />
   <img src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight" />
 </p>
 
@@ -47,8 +46,7 @@ Here are some ideas to get you started:
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:kennedi.by@gmail.com src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
