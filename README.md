@@ -1,12 +1,7 @@
-## Hi there 👋
-
-<!--
-**KentangJpg/KentangJpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## Hi there 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+I'm+Kenn+Yeo!;Frontend+Developer+%7C+ML+Learner;Building+Useful+Systems+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+I'm+Kennedi+Yeo!;Frontend+Developer+%7C+ML+Learner;Building+Useful+Systems+🚀" />
 </p>
 
 ---
@@ -38,7 +33,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KentangJpg&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=KentangJpg&theme=tokyonight" />
 </p>
 
 ---
